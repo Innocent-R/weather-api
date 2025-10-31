@@ -1,6 +1,6 @@
 Project: Weather API
 
-The weather API has one api which is the weather api from the open weather map. This helps to get weather data or information by using fetch function. The user inputs the name of the city and the country and gets the temperature of the day.
+The Weather API uses data from the OpenWeatherMap API to retrieve current weather information through the fetch function. The user enters the name of a city and country to receive the day’s temperature.
 
 How It's Made:
 Tech used: HTML, CSS, and JavaScript
